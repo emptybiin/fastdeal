@@ -203,9 +203,3 @@ class _ReportFeatureState extends State<ReportFeature> {
     );
   }
 }
-
-void main() {
-  runApp(MaterialApp(
-    home: ReportFeature(),
-  ));
-}
